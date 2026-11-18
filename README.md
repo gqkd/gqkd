@@ -1,0 +1,7 @@
+- 🔭 Lead AI & Data Engineer, designing an AI + data platform from scratch
+- 🧬 Biomedical engineer gone data: from EEG signals and sleep-staging CNNs to Spark pipelines and LLM agents
+- ⚡ Usual suspects: `Python` `TypeScript` `LangGraph` `FastAPI` `DuckDB` `Iceberg` `NiFi` `Spark` `Databricks` `dbt` `Airflow` `Postgres` `React` `Docker` `Kubernetes` `Azure` `AWS`, plus way too many Claude Code sessions open at once
+- 🌱 Building [framework-data-ai](https://github.com/gqkd/framework-data-ai): project docs that humans and AI agents can both trust
+- 🤝 Hacking on dev tools with the [@HardQoreDev](https://github.com/HardQoreDev) crew
+- ✍️ Blogging at [thebiomedicalgeek.com](https://thebiomedicalgeek.com) about AI, data, and what happens to your body in a 50 km/h crash
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/giulio-quaglia/)
